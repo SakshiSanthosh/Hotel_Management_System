@@ -332,7 +332,7 @@ export default function App() {
         <div className="brand">
           <span className="brand-icon">🏨</span>
           <div className="brand-text">
-            <h1>GRAND HORIZON</h1>
+            <h1>INNKEEP</h1>
             <span>HOTEL MANAGEMENT SYSTEM</span>
           </div>
         </div>
@@ -1174,7 +1174,7 @@ export default function App() {
                   {guestBillResult && (
                     <div className="receipt">
                       <div className="receipt-header">
-                        <h4>Grand Horizon Invoice</h4>
+                        <h4>InnKeep Invoice</h4>
                         <span style={{ fontSize: '0.75rem' }}>BILLING SYSTEM REPORT</span>
                       </div>
                       <div className="receipt-info">

@@ -1,0 +1,13 @@
+{
+  "name": "dbms-ad044-project",
+  "version": "1.0.0",
+  "description": "This repository contains the complete codebase and database design for a **Hotel Management System** DBMS project. It includes database schema design, triggers, stored procedures, 10 advanced queries, and a modern React frontend dashboard with an Express API backend.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
